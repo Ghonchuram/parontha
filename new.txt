@@ -1,0 +1,3 @@
+IP: CHIMAKANDI_SMP.aternos.me
+Port: 51059
+Name:Maiman
